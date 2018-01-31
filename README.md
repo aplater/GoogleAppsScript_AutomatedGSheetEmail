@@ -8,4 +8,5 @@ As an example, an owner of a monthly team event would receive a Gmail notificati
 
 ## Images
 Below is a screen of the Google Sheet setup for the Script: 
-![Image Google Sheet Setup](https://github.com/daniiielak/GoogleAppsScript/blob/master/Project_EventReminder/Image/EventReminderImage.png "Screen Google Sheet Setup")
+![Image Google Sheet Setup](https://github.com/daniiielak/GoogleAppsScript/blob/master/Image/EventReminderImage.png "Screen Google Sheet Setup")
+
